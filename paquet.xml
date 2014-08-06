@@ -1,7 +1,7 @@
 <paquet
 	prefix="voces"
 	categorie="squelette"
-	version="1.0.0"
+	version="1.0.1"
 	etat="stable"
 	compatibilite="[3.0.16;3.0.*]"
 	logo="prive/themes/spip/images/voces-64.png"
@@ -17,6 +17,7 @@
 
 	<licence>GNU/GPL</licence>
 
-
+	<necessite nom="wsps_html5" compatibilite="[1.1.0;]" />
+	<necessite nom="wsp_ml" compatibilite="[0.2.2;]" />	
 
 </paquet>
