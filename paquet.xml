@@ -1,0 +1,22 @@
+<paquet
+	prefix="voces"
+	categorie="squelette"
+	version="1.0.0"
+	etat="stable"
+	compatibilite="[3.0.16;3.0.*]"
+	logo="prive/themes/spip/images/voces-64.png"
+	documentation=""
+>
+	<!--
+		Paquet genere le 2014-08-06 14:03:14
+	-->
+
+	<nom>V-oces</nom>
+
+	<auteur lien='http://websimple.be/'>abelass</auteur>
+
+	<licence>GNU/GPL</licence>
+
+
+
+</paquet>
