@@ -17,8 +17,8 @@
 
 	<licence>GNU/GPL</licence>
 
-	<necessite nom="wsps_html5" compatibilite="[1.1.0;]" />
-	<necessite nom="wsp_ml" compatibilite="[0.2.2;]" />	
+	<necessite nom="wsps_html5" compatibilite="[1.1.3;]" />
+	<necessite nom="wsp_ml" compatibilite="[0.2.4;]" />	
 	<necessite nom="menuder" compatibilite="[2.2.0;]" />
 			
 
